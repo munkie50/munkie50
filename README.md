@@ -3,7 +3,7 @@
 I'm Syabil, a CS student from Singapore with a diploma in Graphic Design 😉.
 I'm currently working through school and trying to learn as much as I can. 
 
-## Reach me 
+# Reach me 
 **LinkedIn**: To be added  
 **Behance**: To be added  
 **Email**: syabilfe@gmail.com  
