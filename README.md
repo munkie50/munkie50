@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Syabil, a CS student from Singapore with a diploma in Graphic Design 😉. 
+I'm currently working through school and trying to learn as much as I can. 
+
+Reach me:
+To be added.
+
 <!--
 **munkie50/munkie50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
