@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm Syabil, a CS student from Singapore with a diploma in Graphic Design 😉.  
-I'm currently working through school and trying to learn as much as I can.  
+Am Syabil.  
 
 # Reach me
 **LinkedIn**: To be added  
