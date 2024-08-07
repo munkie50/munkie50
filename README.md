@@ -3,10 +3,12 @@
 Am Syabil.  
 
 # Reach me
+**Email**: syabilfe@gmail.com  
+<!--
 **LinkedIn**: To be added  
 **Behance**: To be added  
-**Email**: syabilfe@gmail.com  
 **Twitter**: To be added  
+-->
 
 <!--
 **munkie50/munkie50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
